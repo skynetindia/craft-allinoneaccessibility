@@ -79,14 +79,14 @@ class CraftAllinoneaccessibility extends Plugin
       $customJsUrl = "https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode=".$color_code."&token=".$license_key."&position=".$position.".".$icon_type.".".$icon_size." ";
       
       // Get the current URL path
-      $currentUrl = Craft::$app->getRequest()->getAbsoluteUrl();
+      // $currentUrl = Craft::$app->getRequest()->getAbsoluteUrl();
       $adminBaseUrl = UrlHelper::cpUrl();
       $isInAdminPanel = Craft::$app->getRequest()->getIsCpRequest();
       
       // Check if the current URL starts with the admin base URL
-      $isAdminSection = strpos($currentUrl, $adminBaseUrl) === 0;
+      // $isAdminSection = strpos($currentUrl, $adminBaseUrl) === 0;
       
-      if (!$isAdminSection && !$isInAdminPanel) {
+      if (!$isInAdminPanel) {
         // Register the JavaScript file
         Craft::$app->getView()->registerJsFile($customJsUrl, ['position' => View::POS_END,'id' => $scriptId,'async'=>true]);
       }
