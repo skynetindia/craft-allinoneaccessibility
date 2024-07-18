@@ -15,7 +15,7 @@ We provide a 10-day free trial. Get started [here](https://ada.skynettechnologie
 ## Installation
 
 ### Prerequisites
-- Craft version 3.X
+- Craft version 4.X
 
 ### Steps
 
@@ -74,22 +74,28 @@ Alternatively, you can send an email to our support team:
 
 ## Partnership Opportunities
 
-#### [Agency Partnership](https://www.skynettechnologies.com/agency-partners)
+#### [Agency](https://www.skynettechnologies.com/agency-partners)
 
 Partner with us as an agency to provide comprehensive accessibility solutions to your clients. Get access to exclusive resources, training, and support to help you implement and manage accessibility features effectively.
 
-#### [Affiliate Partnership](https://www.skynettechnologies.com/affiliate-partner)
+#### [Affiliate](https://www.skynettechnologies.com/affiliate-partner)
 
 Join our affiliate program and earn commissions by promoting All in One Accessibility™. Share our Widget with your network and help businesses improve their website accessibility while generating revenue.
 
-For more details, Please visit [Partnership Opportunities Page](https://www.skynettechnologies.com/partner-program)
+For more details, Please visit [Partnership Opportunities](https://www.skynettechnologies.com/partner-program)
 
 ## Credits
 
-This addon is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
+This plugin is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
 
 ## Current Maintainers
 - [Skynet Technologies USA LLC](https://github.com/skynettechnologies)
+
+
+
+
+
+
 
 
 
