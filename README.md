@@ -59,8 +59,9 @@ https://craft.skynettechnologies.us/
 
 ## Documentation
 
+- [Purchase Craft All in One Accessibility](https://www.skynettechnologies.com/craft-cms-website-accessibility)
 - [How to install All in One Accessibility Plugin on Craft](https://www.skynettechnologies.com/blog/craft-cms-web-accessibility-widget-installation)
-- [All in One Accessibility - User Guide](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)
+- [All in One Accessibility - Features Guide](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)
 
 ## Submit a Support Request
 
@@ -73,24 +74,22 @@ Alternatively, you can send an email to our support team:
 
 ## Partnership Opportunities
 
-#### [Agency](https://www.skynettechnologies.com/agency-partners)
+#### [Agency Partnership](https://www.skynettechnologies.com/agency-partners)
 
 Partner with us as an agency to provide comprehensive accessibility solutions to your clients. Get access to exclusive resources, training, and support to help you implement and manage accessibility features effectively.
 
-#### [Affiliate](https://www.skynettechnologies.com/affiliate-partner)
+#### [Affiliate Partnership](https://www.skynettechnologies.com/affiliate-partner)
 
 Join our affiliate program and earn commissions by promoting All in One Accessibility™. Share our Widget with your network and help businesses improve their website accessibility while generating revenue.
 
-For more details, Please visit [Partnership Opportunities](https://www.skynettechnologies.com/partner-program)
+For more details, Please visit [Partnership Opportunities Page](https://www.skynettechnologies.com/partner-program)
 
 ## Credits
 
-This plugin is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
+This addon is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
 
 ## Current Maintainers
 - [Skynet Technologies USA LLC](https://github.com/skynettechnologies)
-
-
 
 
 
