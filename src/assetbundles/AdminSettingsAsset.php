@@ -7,25 +7,51 @@ use craft\web\assets\cp\CpAsset;
 
 class AdminSettingsAsset extends AssetBundle
 {
-    public function init()
+    public function init(): void
     {
-        // Set the path where your resources are located
-        $this->sourcePath = "@skynettechnologies/craftallinoneaccessibility/resources";
+        // Plugin resources directory
+        $this->sourcePath = '@skynettechnologies/craftallinoneaccessibility/resources';
 
-        // Define the CSS files to be included
+        // CSS files
         $this->css = [
-            'css/aiostyle.css',
-            'css/bootstraps.min.css',
+         
+            'css/tokens.css',
+            'css/base.css',
+            'css/components.css',
+            'css/banners.css',
+            'css/settings.css',
+            'css/tabs.css',
+            'css/paid.css',
+            'css/score.css',
+            'css/responsive.css',
         ];
 
-        // Define the JavaScript files to be included
+        // JavaScript files in dependency order
         $this->js = [
             'js/aiojquery.js',
+
+            'js/core.js',
+            'js/ui.js',
+            'js/theme.js',
+            'js/tabs.js',
+            'js/plan.js',
+            'js/paid-features.js',
+            'js/score.js',
+            'js/settings-form.js',
+            'js/save.js',
+            'js/dashboard.js',
+            'js/app.js',
+            'js/theme-init.js',
         ];
 
-        // Define the dependencies
+        // Load JavaScript after HTML parsing
+        $this->jsOptions = [
+            'defer' => true,
+        ];
+
+        // Craft Control Panel dependencies
         $this->depends = [
-            CpAsset::class, // Ensures Craft's Control Panel styles and scripts are loaded
+            CpAsset::class,
         ];
 
         parent::init();
